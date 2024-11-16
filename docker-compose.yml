@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  gods_eye:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - ENV=production
+      - API_KEY=${API_KEY}

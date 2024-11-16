@@ -1,0 +1,8 @@
+flask
+pyyaml
+requests
+networkx
+pandas
+numpy
+solana
+gunicorn
