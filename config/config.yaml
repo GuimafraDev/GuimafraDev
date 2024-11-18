@@ -1,0 +1,7 @@
+app:
+  host: 0.0.0.0
+  port: 5000
+database:
+  uri: sqlite:///gods_eye.db
+logging:
+  level: INFO
