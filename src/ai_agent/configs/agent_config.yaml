@@ -1,0 +1,12 @@
+prompts:
+  definitions: 
+    scalping: "Analyze wallet with balance {balance} and {trades} trades for scalping opportunities."
+    swing: "Evaluate wallet with balance {balance} and trading frequency for swing trading."
+    arbitrage: "Determine arbitrage potential for wallet with balance {balance}."
+  default: "Provide a general analysis for wallet with balance {balance}."
+memory:
+  file: "src/ai_agent/memory/memory_store.json"
+  history: "src/ai_agent/memory/conversation_history.json"
+tools:
+  endpoint: "http://localhost:8000/llm"
+  api_key: "YOUR_LLM_API_KEY"

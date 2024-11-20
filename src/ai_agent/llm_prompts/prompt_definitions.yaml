@@ -1,0 +1,3 @@
+scalping: "Analyze wallet with balance {balance} and {trades} trades for scalping opportunities."
+swing: "Evaluate wallet with balance {balance} and trading frequency for swing trading."
+arbitrage: "Determine arbitrage potential for wallet with balance {balance}."
