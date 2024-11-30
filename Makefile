@@ -9,5 +9,9 @@ test:
 run:
 	python src/backend/app.py
 
-docker:
-	docker-compose up --build
+        
+        
+        
+        
+        
+        
