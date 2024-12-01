@@ -12,5 +12,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build Docker Image
         run: docker build -t gods_eye:latest .
-      - name: Deploy
-        run: echo "Deploying version $GITHUB_REF"
+         
+         
+         
+         
+         
+         
+         
+         
