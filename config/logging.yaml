@@ -11,4 +11,8 @@ loggers:
   gods_eye:
     handlers: [console]
     level: DEBUG
-    propagate: no
+                       
+                       
+                       
+                       
+                       
