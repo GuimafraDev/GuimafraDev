@@ -61,6 +61,15 @@ def main():
     migrator = DataMigrator(config_path)
     migrator.migrate()
     print("Data migration completed.")
-
-if __name__ == "__main__":
-    main()
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
