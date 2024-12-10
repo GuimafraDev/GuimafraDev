@@ -38,13 +38,23 @@ def main():
     config_path = os.environ.get('AGENT_CONFIG', 'src/ai_agent/configs/agent_config.yaml')
     agent = Agent(config_path)
     sample_data = {
-        "wallet_1": {"balance": 1000, "trades": 10},
-        "wallet_2": {"balance": 2500, "trades": 25}
-    }
-    results = agent.run(sample_data)
-    print("Agent analysis results:")
-    for wallet, res in results.items():
-        print(f"{wallet}: {res}")
-
-if __name__ == "__main__":
-    main()
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
