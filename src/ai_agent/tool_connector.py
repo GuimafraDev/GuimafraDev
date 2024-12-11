@@ -10,5 +10,12 @@ class ToolConnector:
         payload = {"prompt": prompt, "api_key": self.api_key}
         response = requests.post(self.endpoint, json=payload)
         if response.status_code == 200:
-            return response.json().get('result', '')
-        return "Error: Unable to fetch response."
+    
+    
+    
+    
+    
+    
+    
+    
+    
