@@ -30,7 +30,15 @@ class MemoryManager:
     
     def recall(self, key):
         return self.history.get(key, None)
-    
-    def clear_memory(self):
-        self.history = {}
-        self.save_memory(self.history, self.history_file)
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
