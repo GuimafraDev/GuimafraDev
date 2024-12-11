@@ -14,6 +14,17 @@ class PromptManager:
         prompt = prompt_template.format(**wallet_data)
         return prompt
     
-    def load_prompts_from_file(self, filepath):
-        with open(filepath, 'r') as f:
-            self.prompts = yaml.safe_load(f)
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
