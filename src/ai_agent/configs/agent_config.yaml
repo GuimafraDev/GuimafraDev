@@ -7,6 +7,10 @@ prompts:
 memory:
   file: "src/ai_agent/memory/memory_store.json"
   history: "src/ai_agent/memory/conversation_history.json"
-tools:
-  endpoint: "http://localhost:8000/llm"
-  api_key: "YOUR_LLM_API_KEY"
+               
+               
+               
+               
+               
+               
+               
