@@ -18,5 +18,10 @@ class SolanaParser:
     def batch_parse(self, data_list):
         results = []
         for data in data_list:
-            results.append(self.parse_transaction(data))
-        return results
+
+
+
+
+
+
+
