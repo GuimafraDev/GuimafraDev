@@ -26,8 +26,18 @@ class HeliusConnector:
         response = requests.get(url, params=params)
         if response.status_code == 200:
             return response.json()
-        return {}
-    
-    def monitor_wallet(self, wallet_address):
-        transactions = self.get_wallet_transactions(wallet_address)
-        return transactions
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
