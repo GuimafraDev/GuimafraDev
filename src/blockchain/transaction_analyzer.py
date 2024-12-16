@@ -18,7 +18,13 @@ class TransactionAnalyzer:
         return float(instruction.get('data', 0)) * 0.001
     
     def analyze_batch(self, transactions):
-        analysis = {}
-        for tx in transactions:
-            analysis[tx.get('tx_id')] = self.analyze(tx)
-        return analysis
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
