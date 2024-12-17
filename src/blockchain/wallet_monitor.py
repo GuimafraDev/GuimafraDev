@@ -24,6 +24,15 @@ class WalletMonitor:
     
     def continuous_monitor(self, interval=30):
         while True:
-            data = self.monitor()
-            print("Monitoring data:", data)
-            time.sleep(interval)
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
