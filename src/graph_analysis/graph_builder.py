@@ -24,5 +24,11 @@ class GraphBuilder:
                     self.add_connection(src, dst)
         return self.graph
     
-    def get_graph(self):
-        return self.graph
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
