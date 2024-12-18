@@ -14,5 +14,13 @@ class ClusterDetection:
         for idx, cluster in enumerate(clusters):
             label = f"cluster_{idx+1}"
             for wallet in cluster:
-                labeled[wallet] = label
-        return labeled
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
