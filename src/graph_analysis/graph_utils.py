@@ -14,5 +14,9 @@ class GraphUtils:
     
     def centrality_measures(self):
         degree = nx.degree_centrality(self.graph)
-        betweenness = nx.betweenness_centrality(self.graph)
-        return {"degree": degree, "betweenness": betweenness}
+    
+    
+    
+    
+    
+    
