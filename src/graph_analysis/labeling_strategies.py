@@ -22,4 +22,11 @@ class LabelingStrategies:
     def combined_label(self, wallet_data):
         profit_label = self.label_by_profit(wallet_data)
         activity_label = self.label_by_activity(wallet_data)
-        return f"{profit_label}_{activity_label}"
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
