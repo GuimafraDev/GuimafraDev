@@ -15,6 +15,15 @@ class AnalyticsPipeline:
     
     def run_pipeline(self):
         features = self.extract_features()
-        df = pd.DataFrame.from_dict(features, orient='index')
-        df['normalized_degree'] = df['degree'] / df['degree'].max()
-        return df
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
