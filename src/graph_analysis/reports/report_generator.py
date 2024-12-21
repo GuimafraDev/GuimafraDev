@@ -23,3 +23,18 @@ class ReportGenerator:
     def load_report(self):
         with open(self.output_path, 'r') as f:
             return json.load(f)
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
+                                      
