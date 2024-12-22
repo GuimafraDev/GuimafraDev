@@ -22,5 +22,11 @@ def main():
     app.run(host=app.config.get('app', {}).get('host', '0.0.0.0'),
             port=app.config.get('app', {}).get('port', 5000))
 
-if __name__ == "__main__":
-    main()
+
+
+
+
+
+
+
+
