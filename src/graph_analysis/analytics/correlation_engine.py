@@ -13,5 +13,13 @@ class CorrelationEngine:
         corr = self.compute_correlations()
         significant = {}
         for col in corr.columns:
-            significant[col] = corr[col][corr[col].abs() > threshold].to_dict()
-        return significant
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
+                                          
