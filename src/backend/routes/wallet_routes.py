@@ -24,4 +24,9 @@ def create_wallet():
 def update_wallet(wallet_id):
     wallet_data = request.get_json()
     data = controller.update_wallet(wallet_id, wallet_data)
-    return jsonify(data)
+
+
+
+
+
+
