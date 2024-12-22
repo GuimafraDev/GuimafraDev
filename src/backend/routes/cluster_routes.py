@@ -25,3 +25,10 @@ def update_cluster(cluster_id):
     cluster_data = request.get_json()
     data = controller.update_cluster(cluster_id, cluster_data)
     return jsonify(data)
+                                     
+                                     
+                                     
+                                     
+                                     
+                                     
+                                     
