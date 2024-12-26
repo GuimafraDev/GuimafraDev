@@ -23,3 +23,15 @@ class WalletModel:
             cls._db[wallet_id].update(wallet_data)
             return cls._db[wallet_id]
         return None
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
