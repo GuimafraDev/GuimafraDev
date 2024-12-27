@@ -13,3 +13,11 @@ class WalletController:
     
     def update_wallet(self, wallet_id, wallet_data):
         return WalletModel.update(wallet_id, wallet_data)
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
