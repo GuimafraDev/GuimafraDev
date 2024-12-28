@@ -12,3 +12,13 @@ class ClusterService:
     
     def list_clusters(self):
         return ClusterModel.get_all()
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
