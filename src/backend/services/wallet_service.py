@@ -12,3 +12,13 @@ class WalletService:
     
     def list_wallets(self):
         return WalletModel.get_all()
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
