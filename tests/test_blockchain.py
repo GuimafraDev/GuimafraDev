@@ -24,4 +24,10 @@ class TestBlockchain(unittest.TestCase):
         self.assertIsInstance(txs, dict)
 
 if __name__ == "__main__":
-    unittest.main()
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
