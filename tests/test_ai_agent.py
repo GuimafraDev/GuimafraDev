@@ -21,5 +21,8 @@ class TestAIAgent(unittest.TestCase):
         analysis = self.agent.analyze_network(network_data)
         self.assertEqual(len(analysis), 2)
 
-if __name__ == "__main__":
-    unittest.main()
+                    
+                    
+                    
+                    
+                    
