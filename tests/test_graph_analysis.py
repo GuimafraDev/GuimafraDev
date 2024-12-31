@@ -29,4 +29,9 @@ class TestGraphAnalysis(unittest.TestCase):
         self.assertIn(label, ["medium_profit_moderate", "low_profit_inactive", "high_profit_active"])
 
 if __name__ == "__main__":
-    unittest.main()
+                    
+                    
+                    
+                    
+                    
+                    
