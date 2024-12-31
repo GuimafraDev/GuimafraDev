@@ -14,6 +14,13 @@ class TestEndToEnd(unittest.TestCase):
         get_response = self.app.get('/wallets/')
         data = json.loads(get_response.data)
         self.assertTrue(any(w.get('wallet') == "wallet_test" for w in data))
-
-if __name__ == "__main__":
-    unittest.main()
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
