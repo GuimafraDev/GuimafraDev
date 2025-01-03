@@ -21,5 +21,10 @@ class ClusterModel:
     def update(cls, cluster_id, cluster_data):
         if cluster_id in cls._db:
             cls._db[cluster_id].update(cluster_data)
-            return cls._db[cluster_id]
-        return None
+                   
+                   
+                   
+                   
+                   
+                   
+                   
