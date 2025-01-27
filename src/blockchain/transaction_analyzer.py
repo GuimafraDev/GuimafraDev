@@ -29,6 +29,11 @@ class TransactionAnalyzer:
                           
                           
                           
-                          
-                          
-                          
+    
+    
+    
+    
+    
+    
+    
+    
